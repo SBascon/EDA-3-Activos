@@ -6,5 +6,7 @@ El estudio busca aportar una visión clara sobre sus diferencias y su posible pa
 ## Contenido del repositorio
 
 - **`Analisis_Exploratorio_de_Datos_con_Python.ipynb`**: Un Jupyter Notebook con el análisis exploratorio de datos del dataset Assets.
-- **`Analisis_Exploratorio_de_Datos_con_Python.py`**: Un script en Python que realiza el mismo análisis que el notebook.
+- **`Analisis_Exploratorio_de_Datos_con_Python.py`**: Un script en Python que realiza el mismo análisis que el notebook. 
 - **`Assets.csv`**: El dataset Assets utilizado para el análisis.
+- **`Descarga-Datos-Activos.py`**: Un script en Python para descargar los datos históricos desde Yahoo Finance. 
+- **`Imagen-Intro.png`**: Imagen que forma parte de la introducción del proyecto.
