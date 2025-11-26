@@ -10,3 +10,7 @@ El estudio busca aportar una visión clara sobre sus diferencias y su posible pa
 - **`Assets.csv`**: El dataset Assets utilizado para el análisis.
 - **`Descarga-Datos-Activos.py`**: Un script en Python para descargar los datos históricos desde Yahoo Finance. 
 - **`Imagen-Intro.png`**: Imagen que forma parte de la introducción del proyecto.
+
+## Licencia
+
+Este repositorio es de uso personal. Puedes adaptarlo a tus necesidades, pero no redistribuirlo sin permiso del autor.
